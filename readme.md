@@ -1,2 +1,0 @@
-Developed a full-stack job application platform using React.js, Redux Toolkit, and MongoDB. Implemented core features including user authentication, job posting, and application tracking, while ensuring responsive design and seamless user experience. Integrated advanced functionalities such as file uploads, custom hooks, and state persistence, alongside building an admin dashboard with filtering and search capabilities
-
